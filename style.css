@@ -1,0 +1,12 @@
+.form-inline{
+    padding-top: 15px;
+}
+.removecolor{
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+
